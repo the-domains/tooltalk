@@ -2,6 +2,7 @@ name: tooltalk
 favicon: null
 layout_spectrum: 0.11925759958103299
 typography_spectrum: 0.08688520081341267
+title: Tool Talk Canada
 cta:
   domain: null
   bucket: null
