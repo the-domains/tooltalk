@@ -1,0 +1,28 @@
+name: tooltalk
+favicon: null
+layout_spectrum: 0.11925759958103299
+typography_spectrum: 0.08688520081341267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5431254634167999
+  lightness: 0.5016233462374657
+  saturation: 0.31170715345069766
+  rhythmicContrast: 0.2069747094064951
+purpose: []
