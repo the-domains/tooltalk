@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tool Talk Canada]]></title>
+        <description><![CDATA[Tool Talk Canada]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 20:26:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tablet & Smartphone Support Arm]]></title>
+            <description><![CDATA[<article><h1>Tablet & Smartphone Support Arm</h1><h2>This looks like a handy tool for the kitchen</h2><p>https://www.youtube.com/watch?v=KkYF1ZJ-w6c</p></article>]]></description>
+            <link>undefinedtablet-and-smartphone-support-arm/index.html</link>
+            <guid isPermaLink="false">bf45579f-98df-48ef-895d-8321d969a706</guid>
+            <pubDate>Tue, 26 Apr 2016 20:26:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
