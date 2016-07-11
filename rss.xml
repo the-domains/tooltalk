@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tool Talk Canada]]></title>
         <description><![CDATA[Tool Talk Canada]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tooltalk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 20:26:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jul 2016 16:32:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tooltalk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Review: Milwaukee 30″ 12-Drawer Tool Chest and Rolling Cabinet Combo]]></title>
+            <description><![CDATA[<article><h1>Review: Milwaukee 30″ 12-Drawer Tool Chest and Rolling Cabinet Combo</h1><p>In late May, Milwaukee Tool kindly sent me a 30″ ball bearing tool storage chest and cabinet combo for review (48-22-8530). While its larger 46″ predecessor has been around since last year, this size storage combination has only been available for few months at Home Depot.</p><img src="http://toolguyd.com/blog/wp-content/uploads/2016/07/Milwaukee-30-inch-storage-combo-product-shot.jpg"></article>]]></description>
+            <link>http://toolguyd.com/milwaukee-30-inch-tool-chest-rolling-cabinet-combo-review/</link>
+            <guid isPermaLink="false">787370f4-3254-4e9b-9d52-7c1a8f35e07f</guid>
+            <pubDate>Mon, 11 Jul 2016 16:32:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tablet & Smartphone Support Arm]]></title>
             <description><![CDATA[<article><h1>Tablet & Smartphone Support Arm</h1><h2>This looks like a handy tool for the kitchen</h2><p>https://www.youtube.com/watch?v=KkYF1ZJ-w6c</p></article>]]></description>
-            <link>undefinedtablet-and-smartphone-support-arm/index.html</link>
+            <link>https://thegrid.ai/tooltalk/tablet-and-smartphone-support-arm/index.html</link>
             <guid isPermaLink="false">bf45579f-98df-48ef-895d-8321d969a706</guid>
             <pubDate>Tue, 26 Apr 2016 20:26:18 GMT</pubDate>
         </item>
